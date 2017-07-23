@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.Form1.resources
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\bin\Debug\calculator1.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\bin\Debug\calculator1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\bin\Debug\calculator1.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.exe
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\calculator1\calculator1\obj\Debug\calculator1.csprojResolveAssemblyReference.cache
